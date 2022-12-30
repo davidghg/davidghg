@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @davidghg
-- 👀 I’m interested in coring
+- 👀 I’m a professional rower @KRCR
 - 🌱 I’m currently learning JAVA, JS, HTML
-- 💞️ I’m looking to collaborate on ... don't hope.
 - 📫 How to reach me ... you can't reach me.
 
 <!---
